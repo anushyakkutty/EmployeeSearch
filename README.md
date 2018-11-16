@@ -4,8 +4,8 @@ Dockerized application for Employee Search
 ### Steps to Run the application :
 1) Clone the repo
 2) Build using the following command : gradlew build 
-3) Start the application using following command :docker compose up.
-4)Alternatively, you can start the application in standalone mode using "java -jar build/libs/esearch-0.0.1-SNAPSHOT.jar"
+3) Start the application using following command : docker compose up
+4) Alternatively, you can start the application in standalone mode using "java -jar build/libs/esearch-0.0.1-SNAPSHOT.jar"
 
 ### Sample Employee Tree Structure 
           1
